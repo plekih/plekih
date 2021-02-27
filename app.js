@@ -5551,7 +5551,7 @@ function init() {
 		<div id="content" class="nexmoe-item"></div>
 	 	<div id="readme_md" class="mdui-typo nexmoe-item" style="display:none; padding: 20px 0;"></div>
   </div>
-  <div class="mdui-center mdui-text-center mdui-text-color-blue-grey-5001 dummyclass" style="margin-bottom: 20px">2023 St Bernie</div>
+  <div class="mdui-center mdui-text-center mdui-text-color-blue-grey-5001 dummyclass" style="margin-bottom: 14px">©2023 St Bernie</div>
 </div>
 	`;
   $("body").html(html);
